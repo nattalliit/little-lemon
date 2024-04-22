@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="architecture.png" alt="little-lemon-react-native-app" width="460">
 </p>
 
